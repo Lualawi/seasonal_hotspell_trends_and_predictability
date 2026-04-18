@@ -1,4 +1,4 @@
-#Seasonal Trends of Hot Spells and Predictability of Driving Mechanisms in Northern Hemisphere Midlatitudes
+### Seasonal Trends of Hot Spells and Predictability of Driving Mechanisms in Northern Hemisphere Midlatitudes
 
 This repository contains analysis code used in the technical chapters of the PhD thesis titled: "Seasonal Trends of Hot Spells and Predictability of Driving Mechanisms in Northern Hemisphere Midlatitudes", authored by Lualawi Mareshet Admasu.
 This thesis is submitted in partial fulfillment of the requirements of the PhD in Atmospheric Sciences to the Faculty of Graduate and Postdoctoral Studies, University of British Columbia, in May 2026.
